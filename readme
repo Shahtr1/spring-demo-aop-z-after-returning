@@ -1,0 +1,27 @@
+Q1 -> What are the Use cases of @AfterReturningAdvice?
+A  -> Post-processing Data
+	Post process the data before returning to caller
+	Format the data or enrich the data (really cool but be careful)
+	
+	logging, security, transactions, who, when, where, what
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
